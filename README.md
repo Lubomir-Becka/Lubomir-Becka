@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lubomir-Becka
-- 👀 I’m interested in web development and IoT.
-- 🌱 I’m currently learning backend development.
+- 👀 I’m interested in programing and IoT.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me lubomir.beckaml@gmail.com
 
 <!---
